@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "eagle.ca.freemcserver.net",
+    "port": 44475,
     "version": "",
     "try-creative": false
   },
