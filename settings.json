@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "eagle.ca.freemcserver.net",
-    "port": 44475,
+    "ip": "Nova_smp_s2.aternos.me",
+    "port": 14632,
     "version": "",
     "try-creative": false
   },
