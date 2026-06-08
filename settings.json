@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "loooot",
   "bot-account": {
-    "username": "Slobot98",
+    "username": "tot98",
     "password": "",
     "type": "offline"
   },
@@ -77,7 +77,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
